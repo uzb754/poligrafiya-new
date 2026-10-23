@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/poligrafiya/', // <--- Mana shu qator shart!
+  base: '/poligrafiya-new/', // Yangi repozitoriya nomi
 })
